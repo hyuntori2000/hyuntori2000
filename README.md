@@ -1,10 +1,20 @@
 # Hi, I'm hyuntori2000.
 
-I build web and mobile software with TypeScript, Dart, and JavaScript. My recent work explores how software can help people respond to food supply disruptions.
+I'm building **Launchpad**, a portal where players discover browser games and creators publish them. I also work on food supply software and Flutter apps.
 
-**[Explore my portfolio ↗](https://hyuntori2000.github.io/hyuntori2000/)**
+## Launchpad · Browser Game Portal
 
-## Featured project
+[![Launchpad storefront with featured games, category navigation, and a seasonal collection](docs/launchpad.jpg)](https://hyuntori2000.github.io/hyuntori2000/#launchpad)
+
+*The working local storefront. Christmas Arcade is one collection within the catalog.*
+
+**For players** — Browse the catalog, open a game’s page, and play in the browser. Return to the store to find the next game.
+
+**For creators** — Upload a browser-game ZIP, review its build and startup checks, and publish a version to the catalog. Earlier releases can be restored from project history.
+
+[View the portfolio ↗](https://hyuntori2000.github.io/hyuntori2000/#launchpad)
+
+## Other projects
 
 ### [FoodTraceAI · Supply Continuity](https://github.com/hyuntori2000/supply-continuity)
 
